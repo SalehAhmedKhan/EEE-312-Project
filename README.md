@@ -1,6 +1,6 @@
 # Live-American-Sign-Language-Recognition-EEE-312-Project
 
-This a Bundle of Codes to create a dataset, train and live detection method for American Sign Language.
+This is a Bundle of Codes to create a dataset, train and live detection method for American Sign Language.
 
 There is a folder for datasets.
 
